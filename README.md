@@ -1,7 +1,7 @@
 # Hi there, I'm Hendry Sitorus 👋
 ## About me:
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
+- 🌱 I’m currently learning Python, Javascript & Software Quality Assurance
+- 👯 I’m looking to collaborate as Software Quality Anssurance
 - 🤔 I’m looking for suggest for Automation and Data Analyst
 - 💬 Ask me about anything
 - 📫 How to reach me: hendrysitorus20@gmail.com
@@ -40,14 +40,8 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hendrysitorus#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/hendrysiitorus#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/hendrysiitorusn#gh-dark-mode-only)
+
 
 ---
-<p>
-    <a href="mailto: wisnu265@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
-</p>
-
-
-
 
 [webdev]: https://github.com/hendrysitorus/hendrysitorus
