@@ -36,6 +36,15 @@
 ---
 ### Connect with me:
 
+[![website](./img/facebook-light.svg)](https://twitter.com/hendryparjuangan99#gh-light-mode-only)
+[![website](./img/facebook-dark.svg)](https://twitter.com/hendryparjuangan99#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hendrysitorus#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hendrysitorus#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/hendrysiitorus#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/hendrysiitorus#gh-dark-mode-only)
+
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hendrysitorus#gh-light-mode-only)
 [![website](./img/instagram-light.svg)](https://instagram.com/hendrysiitorus#gh-light-mode-only)
 
