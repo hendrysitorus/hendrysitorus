@@ -36,8 +36,8 @@
 ---
 ### Connect with me:
 
-[![website](./img/facebook-light.svg)](https://facebook.com/hendryparjuangan99#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](https://facebook.com/hendryparjuangan99#gh-dark-mode-only)
+[![website](./img/facebook-light.svg)](https://web.facebook.com/hendryparjuangan99/#gh-light-mode-only)
+[![website](./img/facebook-dark.svg)](https://web.facebook.com/hendryparjuangan99/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hendrysitorus#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hendrysitorus#gh-dark-mode-only)
