@@ -19,10 +19,9 @@
    
 ---
 ## 🔨Languages and Tools
-![HTML](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/-html5-181717?style=for-the-badge&logo=html5)
 ![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-python-181717?style=for-the-badge&logo=python)
-![PHP)(https://https://img.shields.io/badge/-PHP-181717?style=for-the-badge&logo=PHP)
 ![Laravel Framework](https://img.shields.io/badge/-laravel-181717?style=for-the-badge&logo=laravel)
 
 ![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
