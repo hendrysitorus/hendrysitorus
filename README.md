@@ -15,14 +15,14 @@
 
 ## Work Experience:
 #### 1. PT. RORIS SURYA GEMILANG | Student Intern | DEPOK `Sep`2021 - `Nov`2021
-   
----
-## 🔨Languages and Tools
+
+## Languages and Tools
 ![HTML](https://img.shields.io/badge/-html5-181717?style=for-the-badge&logo=html5)
 ![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-python-181717?style=for-the-badge&logo=python)
 ![Laravel Framework](https://img.shields.io/badge/-laravel-181717?style=for-the-badge&logo=laravel)
 ![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
+![Oracle](https://img.shields.io/badge/-orace-181717?style=for-the-badge&logo=oracle)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/-canva-181717?style=for-the-badge&logo=canva)
@@ -30,7 +30,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
----
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hendrysitorus#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hendrysitorus#gh-dark-mode-only)
