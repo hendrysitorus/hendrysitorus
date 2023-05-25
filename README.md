@@ -37,8 +37,6 @@
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hendrysitorus#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hendrysitorus#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/hendrysiitorus#gh-light-mode-only)
 
 
