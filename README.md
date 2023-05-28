@@ -24,7 +24,7 @@
 ![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
 ![Oracle](https://img.shields.io/badge/-orace-181717?style=for-the-badge&logo=oracle)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
-![Selenium](https://https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
+![Selenium](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/-canva-181717?style=for-the-badge&logo=canva)
 ![AbodbeXD](https://img.shields.io/badge/-adobexd-181717?style=for-the-badge&logo=adobexd)
