@@ -1,8 +1,8 @@
 # Hi there, I'm Hendry Sitorus 👋
 ## About me:
 - 🌱 I’m currently learning Python, Javascript & Software Quality Assurance
-- 👯 I’m looking to collaborate as Software Quality Anssurance
-- 🤔 I’m looking for suggest for SQA (Software Quality Anssurance)
+- 👯 I’m looking to collaborate as Software Quality Assurance
+- 🤔 I’m looking for suggest for SQA (Software Quality Assurance)
 - 💬 Ask me about anything
 - 📫 How to reach me: hendrysitorus20@gmail.com
 
